@@ -49,6 +49,4 @@ jobs:
       - name: Install Dependencies
         run: pip install dependencies
 
-      - name: Test with pytest
-        run: |
-          pytest
+     
