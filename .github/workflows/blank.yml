@@ -47,7 +47,7 @@ jobs:
           echo test, and deploy your project.
 
       - name: Install Dependencies
-        run: pip install
+        run: pip install dependencies
         
       - name: Build Project
         run: pip run
