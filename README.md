@@ -13,7 +13,7 @@ To use this API, you need to have the following software installed on your syste
 
 You can install the required packages by running the following command:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 # Usage
